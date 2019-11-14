@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="JapaFood" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#ffcc66</item>
+        <item name="colorPrimaryDark"> #ffaa00</item>
+        <item name="colorAccent"> #ff6666</item>
+    </style>
+
 </resources>
